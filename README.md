@@ -24,9 +24,9 @@
 - **Creative software systems**
 
 ### Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](arjun-chandra-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/arjun-chandra-0b0b5826a/))
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_LINK](https://www.instagram.com/arjun_chandra7/))
 
 </td>
 <td width="40%" align="center" valign="middle">
