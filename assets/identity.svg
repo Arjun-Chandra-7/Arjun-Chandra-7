@@ -1,0 +1,55 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#20242b"></stop>
+      <stop offset="48%" stop-color="#8B5CF6"></stop>
+      <stop offset="52%" stop-color="#A78BFA"></stop>
+      <stop offset="100%" stop-color="#20242b"></stop>
+    </linearGradient>
+
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"></stop>
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity=".13"></stop>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" rx="8" fill="#0D1117"></rect>
+
+  <!-- corner markings -->
+  <path d="M28 42V24H46" stroke="#3A3F49"></path>
+  <path d="M1154 24H1172V42" stroke="#3A3F49"></path>
+  <path d="M28 178V196H46" stroke="#3A3F49"></path>
+  <path d="M1154 196H1172V178" stroke="#3A3F49"></path>
+
+  <text x="58" y="78" fill="#F2F4F8" font-family="monospace" font-size="44" font-weight="700" letter-spacing="5">
+    ARJUN CHANDRA
+  </text>
+
+  <text x="61" y="117" fill="#8B949E" font-family="monospace" font-size="15" letter-spacing="3">
+    AI SYSTEMS / SOFTWARE / CREATIVE INFRASTRUCTURE
+  </text>
+
+  <text x="61" y="165" fill="#8B5CF6" font-family="monospace" font-size="14">
+    github://Arjun-Chandra-7
+  </text>
+
+  <circle cx="1015" cy="70" r="5" fill="#8B5CF6">
+    <animate attributeName="opacity" values="1;.25;1" dur="2.2s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <text x="1032" y="75" fill="#8B949E" font-family="monospace" font-size="13">
+    BUILD MODE
+  </text>
+
+  <text x="1014" y="110" fill="#F2F4F8" font-family="monospace" font-size="13">
+    STATUS // ACTIVE
+  </text>
+
+  <rect x="0" y="0" width="1200" height="32" fill="url(#scan)">
+    <animate attributeName="y" values="-32;220" dur="5s" repeatCount="indefinite"></animate>
+  </rect>
+
+  <rect x="58" y="194" width="1084" height="1.5" fill="url(#line)"></rect>
+</svg>
