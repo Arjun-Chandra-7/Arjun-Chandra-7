@@ -1,0 +1,104 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="430" rx="12" fill="#0D1117"></rect>
+
+  <g font-family="monospace" fill="#8B949E" font-size="13">
+    <text x="45" y="43">
+      SYSTEM://MENTAL_MODEL
+    </text>
+
+    <text x="1020" y="43">
+      V1.0
+    </text>
+  </g>
+
+  <!-- lines -->
+
+  <g stroke="#30363D" stroke-width="2" fill="none">
+
+    <path d="M200 215H400"></path>
+    <path d="M600 215H760"></path>
+
+    <path d="M840 215V118"></path>
+    <path d="M840 215V312"></path>
+
+    <path d="M840 118H980"></path>
+    <path d="M840 312H980"></path>
+
+  </g>
+
+  <!-- moving packets -->
+
+  <circle r="4" fill="#8B5CF6">
+    <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 215H760"></animateMotion>
+  </circle>
+
+  <circle r="4" fill="#A78BFA">
+    <animateMotion dur="3.2s" repeatCount="indefinite" path="M600 215H840V118H980"></animateMotion>
+  </circle>
+
+  <!-- blocks -->
+
+  <g fill="#161B22" stroke="#30363D" stroke-width="1.5">
+
+    <rect x="55" y="170" width="145" height="90" rx="7"></rect>
+    <rect x="400" y="170" width="200" height="90" rx="7"></rect>
+    <rect x="760" y="170" width="160" height="90" rx="7"></rect>
+    <rect x="980" y="73" width="160" height="90" rx="7"></rect>
+    <rect x="980" y="267" width="160" height="90" rx="7"></rect>
+
+  </g>
+
+  <g font-family="monospace" text-anchor="middle">
+
+    <text x="127" y="208" fill="#F2F4F8" font-size="17">
+      INPUT
+    </text>
+
+    <text x="127" y="233" fill="#8B949E" font-size="11">
+      context
+    </text>
+
+
+    <text x="500" y="208" fill="#F2F4F8" font-size="17">
+      REASON
+    </text>
+
+    <text x="500" y="233" fill="#8B949E" font-size="11">
+      understand
+    </text>
+
+
+    <text x="840" y="208" fill="#F2F4F8" font-size="17">
+      ACT
+    </text>
+
+    <text x="840" y="233" fill="#8B949E" font-size="11">
+      execute
+    </text>
+
+
+    <text x="1060" y="111" fill="#F2F4F8" font-size="17">
+      TOOLS
+    </text>
+
+    <text x="1060" y="136" fill="#8B949E" font-size="11">
+      external world
+    </text>
+
+
+    <text x="1060" y="305" fill="#F2F4F8" font-size="17">
+      MEMORY
+    </text>
+
+    <text x="1060" y="330" fill="#8B949E" font-size="11">
+      persistent context
+    </text>
+
+  </g>
+
+  <text x="600" y="402" text-anchor="middle" fill="#656D76" font-family="monospace" font-size="12" letter-spacing="2">
+    SOFTWARE SHOULD DO MORE THAN WAIT FOR A BUTTON PRESS.
+  </text>
+
+</svg>
