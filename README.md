@@ -22,11 +22,11 @@ intelligence is treated as a primitive — not a feature.
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_URL">PORTFOLIO</a>
+<a href="arjun-chandra-portfolio.vercel.app">PORTFOLIO</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">LINKEDIN</a>
+<a href="linkedin.com/in/arjun-chandra-0b0b5826a/">LINKEDIN</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">EMAIL</a>
+<a href="mailto:aarjunchandra@gmail.com">EMAIL</a>
 
 </td>
 
