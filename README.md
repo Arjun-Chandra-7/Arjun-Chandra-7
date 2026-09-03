@@ -1,90 +1,206 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=Arjun+Chandra;AI+Systems+%7C+Software+%7C+Creative+Tech;Building+things+that+actually+feel+different" alt="Typing SVG" />
+  <img src="./assets/identity.svg" width="100%" alt="Arjun Chandra" />
 </p>
 
----
+<br>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="61%" valign="middle">
 
-# Hey, I'm Arjun Chandra 👋
+<h1>I build software that<br>observes, reasons, creates,<br>and acts.</h1>
 
-### AI Systems • Software • Creative Technology
+<p>
+AI systems, creative tooling, developer infrastructure,
+and experiments around what software can become when
+intelligence is treated as a primitive — not a feature.
+</p>
 
-- 🔭 Currently building **AI-powered systems**
-- ⚙️ Interested in **agents, automation, computer vision, and developer tools**
-- 🚀 Focused on building things that feel **clean, ambitious, and original**
-- 🧠 Always exploring better ways to turn ideas into real products
+<br>
 
-### Current Focus
-- **Viralyst**
-- **JARVIS**
-- **Video Editing + AI tooling**
-- **Creative software systems**
+<code>~/arjun → currently shipping</code>
 
-### Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](arjun-chandra-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/arjun-chandra-0b0b5826a/))
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_LINK](https://www.instagram.com/arjun_chandra7/))
+<br><br>
+
+<a href="YOUR_PORTFOLIO_URL">PORTFOLIO</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL">LINKEDIN</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">EMAIL</a>
 
 </td>
-<td width="40%" align="center" valign="middle">
 
-<img src="./me.png" width="320" alt="Arjun Chandra" />
+<td width="39%" align="center" valign="middle">
+
+<img
+  src="./assets/arjun.png"
+  width="290"
+  alt="Arjun Chandra"
+/>
 
 </td>
 </tr>
 </table>
 
----
-
-## ⚒️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,tailwind,git,github,linux,vscode,docker,figma,opencv,arduino" />
-</p>
+<br>
 
 ---
 
-## 🚀 Featured Projects
+<br>
 
-| Project | What it is |
-|--------|-------------|
-| **Viralyst** | AI-powered content intelligence and creative system |
-| **JARVIS** | Personal AI assistant and workflow execution system |
-| **Online Video Editor** | Editing workflow tool with automation potential |
-| **Portfolio Website** | Personal website and digital identity |
-| **Cric-Coach AI** | AI-driven sports/coaching idea |
+## `01 / CURRENTLY BUILDING`
+
+### VIRALYST
+
+**Content intelligence for short-form media.**
+
+A system designed to move beyond surface-level analytics:
+understand what works, understand *why* it works, and turn
+that intelligence into better creative decisions.
+
+`Research → Intelligence → Creation → Editing`
+
+<br>
+
+### JARVIS
+
+**A personal execution layer for AI.**
+
+Connecting models, tools, workflows, permissions and
+verification so AI can move from answering questions
+to actually completing work.
+
+`Intent → Planning → Tools → Execution → Verification`
+
+<br>
+
+### VIDEO EDITOR
+
+**A programmable editing environment built for AI-native workflows.**
+
+Turning editing operations into tools that software can
+understand, invoke and verify — without replacing the
+creative judgment of the editor.
+
+`Timeline → Tools → Automation → Human Taste`
+
+<br>
 
 ---
 
-## 📊 GitHub Stats
+<br>
+
+## `02 / WHAT I CARE ABOUT`
+
+> I like products that feel obvious only after somebody builds them.
+
+**Systems over wrappers.**  
+**Taste over feature count.**  
+**Shipping over endless prototypes.**
+
+I'm especially interested in the point where AI stops being
+a chatbot sitting beside software and starts becoming part
+of the software itself.
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-Chandra-7&show_icons=true&hide_border=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Chandra-7&layout=compact&hide_border=true&theme=transparent" height="170" />
+  <img
+    src="./assets/system-map.svg"
+    width="100%"
+    alt="Software system model"
+  />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arjun-Chandra-7&theme=transparent&hide_border=true" height="170" />
-</p>
+<br>
 
 ---
 
-## 🐍 Contribution Snake
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arjun-Chandra-7/Arjun-Chandra-7/output/snake.svg" alt="Snake animation" />
-</p>
+## `03 / TOOLS I REACH FOR`
+
+<table>
+<tr>
+<td><b>LANGUAGES</b></td>
+<td>Python · TypeScript · JavaScript</td>
+</tr>
+
+<tr>
+<td><b>INTERFACE</b></td>
+<td>React · Next.js · Tailwind</td>
+</tr>
+
+<tr>
+<td><b>SYSTEMS</b></td>
+<td>Node.js · FastAPI · Docker</td>
+</tr>
+
+<tr>
+<td><b>AI / VISION</b></td>
+<td>LLMs · RAG · OpenCV · Agents</td>
+</tr>
+
+<tr>
+<td><b>ENVIRONMENT</b></td>
+<td>Linux · Git · GitHub · VS Code</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 💭 A little more about me
+<br>
 
-```bash
-Name: Arjun Chandra
-Username: Arjun-Chandra-7
-Focus: AI Systems, Software, Creative Tech
-Building: Things that make people go "how did he make that?"
-Status: Shipping
+## `04 / PROOF OF WORK`
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    width="100%"
+    alt="Arjun's GitHub contributions"
+  />
+</p>
+
+<br>
+
+---
+
+<br>
+
+## `05 / ACTIVITY`
+
+<p align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Arjun-Chandra-7/Arjun-Chandra-7/output/snake-dark.svg"
+  width="100%"
+  alt="Contribution activity"
+/>
+
+</p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Arjun-Chandra-7">GitHub</a>
+
+<br><br>
+
+<code>~/arjun</code>
+
+<br><br>
+
+<b>Still building things I don't know how to build yet.</b>
+
+</p>
