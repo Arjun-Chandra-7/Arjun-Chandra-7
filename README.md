@@ -22,9 +22,9 @@ intelligence is treated as a primitive — not a feature.
 
 <br><br>
 
-<a href="arjun-chandra-portfolio.vercel.app">PORTFOLIO</a>
+<a href="https://arjun-chandra-portfolio.vercel.app">PORTFOLIO</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="linkedin.com/in/arjun-chandra-0b0b5826a/">LINKEDIN</a>
+<a href="https://www.linkedin.com/in/arjun-chandra-0b0b5826a/">LINKEDIN</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:aarjunchandra@gmail.com">EMAIL</a>
 
@@ -165,42 +165,48 @@ of the software itself.
 
 <br>
 
----
-
-<br>
-
-## `05 / ACTIVITY`
+## `05 / LIVE ACTIVITY`
 
 <p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Arjun-Chandra-7/Arjun-Chandra-7/output/snake-dark.svg"
-  width="100%"
-  alt="Contribution activity"
-/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arjun-Chandra-7/Arjun-Chandra-7/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arjun-Chandra-7/Arjun-Chandra-7/output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Arjun-Chandra-7/Arjun-Chandra-7/output/snake-dark.svg"
+      width="100%"
+      alt="Arjun contribution activity"
+    />
+  </picture>
 </p>
 
 <br>
 
----
+## `06 / CONTACT`
+
+<p align="center">
+  <a href="https://arjun-chandra-portfolio.vercel.app">Portfolio</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arjun-chandra-0b0b5826a/">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="mailto:aarjunchandra@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Arjun-Chandra-7">GitHub</a>
+</p>
 
 <br>
 
 <p align="center">
-
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Arjun-Chandra-7">GitHub</a>
-
-<br><br>
-
-<code>~/arjun</code>
-
-<br><br>
-
-<b>Still building things I don't know how to build yet.</b>
-
+  <code>~/arjun</code>
 </p>
+
+<p align="center">
+  <b>Build first. Explain it after it works.</b>
+</p>
+
+
